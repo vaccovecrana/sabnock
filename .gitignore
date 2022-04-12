@@ -1,5 +1,8 @@
+.DS_Store
+
 .idea/
 .gradle/
-/build/
-*.iml
-!gradle-wrapper.jar
+build/
+
+gradle/
+gradlew*
